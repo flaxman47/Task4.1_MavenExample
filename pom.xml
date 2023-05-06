@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>ru.netology</groupId>
-    <artifactId>TaskMavenExample</artifactId>
+    <artifactId>Task4.1_MavenExample</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>pom</packaging>
 
